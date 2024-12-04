@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/80275701/392541740-c9fc40f6-540e-42c0-b41b-c96e4a8a0095.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241204%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241204T193805Z&X-Amz-Expires=300&X-Amz-Signature=c00686c2d1c1fa79bab570bd937174c345d420aa48c7384cc9027d4803caef79&X-Amz-SignedHeaders=host" width="400" alt="Abdallah LOGO"></a></p>
+<p align="center"><a><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/80275701/392541740-c9fc40f6-540e-42c0-b41b-c96e4a8a0095.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241204%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241204T193805Z&X-Amz-Expires=300&X-Amz-Signature=c00686c2d1c1fa79bab570bd937174c345d420aa48c7384cc9027d4803caef79&X-Amz-SignedHeaders=host" width="400" alt="Abdallah LOGO"></a></p>
 
 # :::: Resume Application ::::
 
