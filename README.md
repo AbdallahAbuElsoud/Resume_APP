@@ -1,66 +1,26 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/80275701/392541740-c9fc40f6-540e-42c0-b41b-c96e4a8a0095.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241204%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241204T193805Z&X-Amz-Expires=300&X-Amz-Signature=c00686c2d1c1fa79bab570bd937174c345d420aa48c7384cc9027d4803caef79&X-Amz-SignedHeaders=host" width="400" alt="Abdallah LOGO"></a></p>
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+# :::: Resume Application ::::
 
-## About Laravel
+An application to create a CV page and modify its components
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Developed using Laravel 10.48.22 and PHP 8.1.17
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## ::: Screenshots :::
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+### Maine page
 
-## Learning Laravel
+![Abdallah Logo](https://private-user-images.githubusercontent.com/80275701/392544564-64df2fcd-1ad1-4adf-90d4-e09b49c7ab77.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzMzNDE4NzIsIm5iZiI6MTczMzM0MTU3MiwicGF0aCI6Ii84MDI3NTcwMS8zOTI1NDQ1NjQtNjRkZjJmY2QtMWFkMS00YWRmLTkwZDQtZTA5YjQ5YzdhYjc3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjA0VDE5NDYxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg3ZjMyNGE4ZDM1MDkzNDQ2YjM4ZDcxZWIwMTJjNTM5MjJhMzRlYWI1YzdiZWMwMzA2ZTIxOWY3ZGRlNjNlYzMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.i8Z0Rirtts4JlqDvrJyWMEXYykXjTHqfrXysVnrYFWg)
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+### Images from Dashboard 
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+![Screenshot 2024-12-04 at 22-43-07 Abdallah CV](https://github-production-user-asset-6210df.s3.amazonaws.com/80275701/392543721-a268f4ed-0160-422d-9c7a-1dd0a134d69f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241204%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241204T194949Z&X-Amz-Expires=300&X-Amz-Signature=633acaec8606a67db01782de1e48f07759ec934cdcf29cabcd657b44274ec9df&X-Amz-SignedHeaders=host)
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+![Screenshot 2024-12-04 at 22-42-55 Abdallah CV](https://github-production-user-asset-6210df.s3.amazonaws.com/80275701/392543737-cc86d9f1-e80e-4a26-9c1b-91b0697cd55f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241204%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241204T195008Z&X-Amz-Expires=300&X-Amz-Signature=eb55bdc0d3b68ea6f2d0337b20a9f91b099bdfdd5554e3dffaa2cf0aeb2eb564&X-Amz-SignedHeaders=host)
 
-## Laravel Sponsors
+![Screenshot 2024-12-04 at 22-42-40 Abdallah CV](https://github-production-user-asset-6210df.s3.amazonaws.com/80275701/392543745-e73a0bf0-510e-43f5-83ce-616545bffe10.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241204%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241204T195032Z&X-Amz-Expires=300&X-Amz-Signature=2061685810081bbbcbd71ba3b3578238cb5414bea4ea9a047144abef44c8ad84&X-Amz-SignedHeaders=host)
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+![Screenshot 2024-12-04 at 22-42-20 Abdallah CV](https://github-production-user-asset-6210df.s3.amazonaws.com/80275701/392543760-f1f765ee-3322-4435-bc63-e0aeeb6bac95.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241204%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241204T195052Z&X-Amz-Expires=300&X-Amz-Signature=eacac3ac636ee645f69127485abc0eeee195d0aca2534c6896be022d38ebc797&X-Amz-SignedHeaders=host)
+## Authors
 
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+- [@Abdallah Abu EL Soud](https://github.com/AbdallahAbuElsoud)
